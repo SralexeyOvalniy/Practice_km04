@@ -1,0 +1,16 @@
+Name = str(input("enter your first name: "))
+Surname = str(input("enter your last name: "))
+Tnumber = int(input("enter your phone number: "))
+Street1 = str(input("street name: "))
+House = int(input("House number: "))
+App = int(input("Apartment number: "))
+City = str(input("City name: "))
+Index = int(input("Your index: "))
+Country = str(input("Country: "))
+
+print(Name, Surname)
+print(Tnumber)
+print(Street1, House, App, City)
+print(Index)
+print(Country)
+
